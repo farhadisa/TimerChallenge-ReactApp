@@ -1,10 +1,10 @@
-"Timer Challenge" app with React
+# "Timer Challenge" app with React
 
-HTML
+**HTML**
 
-CSS 
+**CSS** 
 
-React
+**React**
 
-This is a "Timer Challenge" game. 
-This game app is created with React by me in 2024.
+## This is a "Timer Challenge" game. 
+#### *© This game app is created with React by me in 2024.*
